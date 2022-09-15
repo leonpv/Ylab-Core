@@ -2,6 +2,7 @@ package Lesson2.Task3;
 
 public class Main {
 
+
     public static void main(String[] args) {
         fuzzySearch("car", "ca6$$#_rtwheel"); // true
         fuzzySearch("cwhl", "cartwheel"); // true
